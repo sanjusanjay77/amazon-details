@@ -1,1 +1,2 @@
-
+Owner avatar
+amazon-details
