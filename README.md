@@ -1,2 +1,1 @@
-Owner avatar
-amazon-details
+# Sanjay77
